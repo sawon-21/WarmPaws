@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting with soft, warm outfit options for cold morning walks.",
+    "image": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=900&q=80",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming and Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "A gentle grooming session with paw balm and winter-safe shampoo.",
+    "image": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=900&q=80",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Indoor Cat Comfort Check",
+    "providerName": "Feline Nest Care",
+    "providerEmail": "care@felinenest.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Home comfort advice for cats, including bedding, hydration and dry-skin care.",
+    "image": "https://images.unsplash.com/photo-1511044568932-338cba0ad803?auto=format&fit=crop&w=900&q=80",
+    "category": "Home Care"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Senior Pet Winter Health Visit",
+    "providerName": "North Star Vet Clinic",
+    "providerEmail": "vet@northstar.com",
+    "price": 45,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "A vet checkup focused on joint stiffness, appetite changes and cold sensitivity.",
+    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=900&q=80",
+    "category": "Vet Care"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Heated Bedding Setup",
+    "providerName": "Pet Hearth Co.",
+    "providerEmail": "support@pethearth.com",
+    "price": 35,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Help choosing and placing safe heated beds, blankets and sleeping corners.",
+    "image": "https://images.unsplash.com/photo-1601758064224-c3c4ec910095?auto=format&fit=crop&w=900&q=80",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Walk Safety Session",
+    "providerName": "Happy Trails Pets",
+    "providerEmail": "walks@happytrails.com",
+    "price": 22,
+    "rating": 4.8,
+    "slotsAvailable": 7,
+    "description": "Short training for safer winter walks, paw cleaning and reflective gear use.",
+    "image": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?auto=format&fit=crop&w=900&q=80",
+    "category": "Training"
+  }
+]
